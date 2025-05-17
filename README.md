@@ -16,7 +16,7 @@ I'm a passionate front-end developer with expertise in HTML, CSS, and JavaScript
 - Generative AI applications in web development
 
 ### 💼 Experience
-- **GenAI Intern** at [Company Name] (2025-Present)
+- **GenAI Intern** at AI Wallah (2025-Present)
   - Developing AI-enhanced web interfaces
   - Implementing responsive designs for AI applications
   - Collaborating with cross-functional teams on generative AI projects
