@@ -23,34 +23,11 @@ I'm a passionate front-end developer with expertise in HTML, CSS, and JavaScript
 
 ### 🛠️ Tech Stack
 - **Languages**: HTML5, CSS3, JavaScript
-- **Frameworks/Libraries**: [Add any frameworks you've used]
+- **Frameworks/Libraries**: React 
 - **Tools**: Git, GitHub, VS Code
-- **AI Technologies**: [Specific GenAI tools you've worked with]
-
-### 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+- **AI Technologies**: Gemini Api,Groq Api, Ai Agent 
 
 ### 🔗 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YourGitHubUsername)
 
-### 🚀 Featured Projects
-
-#### Project 1: [Project Name]
-- Brief description of the project
-- Technologies used: HTML, CSS, JavaScript
-- [Link to repository or live demo]
-
-#### Project 2: [Project Name]
-- Brief description of the project
-- Technologies used: HTML, CSS, JavaScript
-- [Link to repository or live demo]
-
-#### Project 3: [Project Name]
-- Brief description of the project
-- Technologies used: HTML, CSS, JavaScript
-- [Link to repository or live demo]
-
----
-
-⭐️ From [YourGitHubUsername](https://github.com/YourGitHubUsername)
