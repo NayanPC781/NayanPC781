@@ -28,6 +28,6 @@ I'm a passionate front-end developer with expertise in HTML, CSS, and JavaScript
 - **AI Technologies**: Gemini Api,Groq Api, Ai Agent 
 
 ### 🔗 Connect with me
-[![LinkedIn](https://www.linkedin.com/in/nayan-patgiri-341a0a358?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YourGitHubUsername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nayan-patgiri-341a0a358?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NayanPC781)
 
